@@ -1,0 +1,25 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+
+# Hugging Face Transformers
+transformers
+datasets
+
+# PyTorch with CUDA (GPU support)
+torch
+torchvision
+torchaudio
+
+# Optional but useful
+tqdm
+
+# For mixed precision and speed
+accelerate
+
+# For reading messy CSVs robustly
+python-dateutil
+peft
+tiktoken
+sentencepiece
